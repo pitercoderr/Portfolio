@@ -1,3 +1,1 @@
-yo, tutaj publikuje poradniki dotyczące tworzenia i  konfigurowania serwera minecraft. 
-Poradniki prowadzę w mozliwe najlatwiejszy sposob do zaprezentowania i wytlumaczenia poszczegolnych rzeczy, w skrocie dla "opornych"
-Krotko o mn, w mc gram od ponad 12 lat a serwery tworze od okolo 5
+https://github.com/user-attachments/assets/48116cf0-f1d9-4ca2-8c35-b552a0702a33
