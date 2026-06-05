@@ -25,3 +25,5 @@ https://github.com/user-attachments/assets/eeaaf1e3-673c-4eda-ad3e-b7e1481358d9
 4. Teraz przerzućmy plik z silnikiem na nasz serwer
 
 
+https://github.com/user-attachments/assets/68327048-4c6d-4b13-8643-6a8a26d3c71a
+
