@@ -16,4 +16,4 @@ https://github.com/user-attachments/assets/dfee0b0f-40f5-4dfe-8f11-45f7bca8f32f
 
 
 
-123
+3. Po pobraniu najlepiej będzie, gdy zmienimy nazwe pliku na server.jar aby nie bylo problemu z odczytem pliku przez serwer
