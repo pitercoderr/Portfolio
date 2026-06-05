@@ -27,3 +27,9 @@ https://github.com/user-attachments/assets/eeaaf1e3-673c-4eda-ad3e-b7e1481358d9
 
 https://github.com/user-attachments/assets/68327048-4c6d-4b13-8643-6a8a26d3c71a
 
+
+5. Na pozostałych dwóch serwerach zainstalujcie sobie zwykłego papera
+
+
+https://github.com/user-attachments/assets/09d849e9-f661-4bc2-9dc7-8532b0efd616
+
