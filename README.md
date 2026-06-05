@@ -1,19 +1,14 @@
-# 🎬 Mój film
+PORADNIK JAK ZAINSTALOWAĆ VELOCITY NA SERWERZE I PODŁĄCZYĆ LOBBY + TRYBY
 
----
 
-## ▶ Obejrzyj film
+WSTĘP
+1. ↓ Oto lista rzeczy do pobrania jakich będziemy potrzebować ↓
+   - Velocity https://papermc.io/software/velocity/
+   - FancyNpcs https://modrinth.com/plugin/fancynpcs
 
-<a href="https://youtu.be/QmLmU83cDig" target="_blank">
-  <img src="https://img.shields.io/badge/▶%20PLAY-FILM-red?style=for-the-badge&logo=youtube" />
-</a>
 
----
 
-## ℹ Informacje
-Kliknij przycisk PLAY żeby otworzyć film w nowej karcie.
+2. INSTALACJA
+- Zaczynamy od pobrania silnika velocity
 
----
-
-## 🔗 Alternatywny link
-https://youtu.be/QmLmU83cDig
+https://github.com/pitercoderr/Portfolio/issues/2#issue-4598611220
