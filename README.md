@@ -1,35 +1,4 @@
-PORADNIK JAK ZAINSTALOWAĆ VELOCITY NA SERWERZE I PODŁĄCZYĆ LOBBY + TRYBY
-
-
-WSTĘP
-1. ↓ Oto lista rzeczy do pobrania jakich będziemy potrzebować ↓
-   - Velocity https://papermc.io/software/velocity/
-   - FancyNpcs https://modrinth.com/plugin/fancynpcs
-
-
-
-2. INSTALACJA
-- Zaczynamy od pobrania silnika velocity
-
-
-https://github.com/user-attachments/assets/dfee0b0f-40f5-4dfe-8f11-45f7bca8f32f
-
-
-
-3. Po pobraniu najlepiej będzie, gdy zmienimy nazwe pliku na server.jar aby nie bylo problemu z odczytem pliku przez serwer
-
-
-https://github.com/user-attachments/assets/eeaaf1e3-673c-4eda-ad3e-b7e1481358d9
-
-
-4. Teraz przerzućmy plik z silnikiem na nasz serwer
-
-
-https://github.com/user-attachments/assets/68327048-4c6d-4b13-8643-6a8a26d3c71a
-
-
-5. Na pozostałych dwóch serwerach zainstalujcie sobie zwykłego papera
-
-
-https://github.com/user-attachments/assets/09d849e9-f661-4bc2-9dc7-8532b0efd616
-
+yo, tutaj publikuje poradniki dotyczące tworzenia i  konfigurowania serwera minecraft. 
+Poradniki prowadzę w mozliwe najlatwiejszy sposob do zaprezentowania i wytlumaczenia poszczegolnych rzeczy
+Nie ukrywam, ze mogą pojawić się błędy lub jakieś nie dopatrzenia.
+Krotko o mn, w mc gram od ponad 12 lat a serwery tworze od okolo 5
